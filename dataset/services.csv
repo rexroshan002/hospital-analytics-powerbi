@@ -1,0 +1,7 @@
+service_id,service_name,service_category,price
+S001,BloodTest,Diagnostics ,500
+S002,Blood Test ,diagnostics,500
+S003,blood test,DIAGNOSTICS,500
+S004,X-Ray,Radiology,1500
+S005, MRI Scan,Radiology ,5000
+S006,Consultation ,Consultation,800
