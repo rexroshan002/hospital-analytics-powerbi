@@ -1,0 +1,29 @@
+# Power BI and Data Analysis Projects
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Processed data
+processed_data/
+
+# Power BI files
+*.pbix
+*.pbit
+
+# Excel files
+*.xlsx
+*.xlsm
+
+# Output folders
+output/
+
+# Backup files
+*.bak
+*.swp
+
+# Other
+*.csv
+*.json
